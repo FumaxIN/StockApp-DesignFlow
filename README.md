@@ -1,7 +1,10 @@
 # StockApp-DesignFlow
 Architectural design for accepting and processing stock market data
 
-![stock_design drawio](https://github.com/user-attachments/assets/e1ebbab2-79c1-492f-97c2-6cba912c7676)
+
+![stock_new_design drawio](https://github.com/user-attachments/assets/4f325910-6444-4937-b346-d441c69637b6)
+
+
 
 **1: Choice of database and storage mechanism**
 
